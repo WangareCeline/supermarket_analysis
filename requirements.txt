@@ -1,0 +1,8 @@
+""" once the requirements.txt file is run through pip install requirements.txt the contents of the file will be downloaded """
+sqlalchemy 
+psycopg2-binary 
+pandas 
+matplotlib 
+seaborn 
+numpy 
+python-dotenv
